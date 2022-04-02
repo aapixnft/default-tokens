@@ -15,7 +15,7 @@
   "timestamp": "2020-06-12T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1,
+      "chainId": 4,
       "address": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa",
       "symbol": "DAI",
       "name": "Dai Stablecoin",
@@ -24,7 +24,18 @@
       "tags": [
         "stablecoin"
       ]
-    }
+    },
+    {
+      "chainId": 4,
+      "address": "0x90492837e3a601c675268eba8e6f48ae001fe9e6",
+      "symbol": "DEXST",
+      "name": "DEX Stable",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg",
+      "tags": [
+        "stablecoin"
+      ]
+    }    
   ],
   "version": {
     "major": 1,

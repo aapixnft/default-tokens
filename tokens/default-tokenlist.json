@@ -1,0 +1,24 @@
+{
+    "name": "DEX-TSwap",
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+    "keywords": [
+      "dex",
+      "swap"
+    ],
+    "timestamp": "2022-03-04T20:37:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 4,
+        "address": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
